@@ -1,2 +1,2 @@
 - 👋 Hi, I’m James
-- Currently learning how to  code, started on python!
+- Currently learning how to code!
